@@ -22,5 +22,3 @@ Frontend Frameworks: NextJS<br />
 Backend: Node & Express<br />
 Testing: Jest & Testing-library<br />
 Version control: GIT<br />
-
-**Do reach out to me by mail cgustafsonx@gmail.com if you want to talk!**
