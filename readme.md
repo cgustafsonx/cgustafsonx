@@ -1,6 +1,9 @@
 <h1>Hi, I'm Christopher. I am a Frontend Developer.</h1>
 
 👈 There, you see a number of coding skills I have. JavaScript and React are my languages so far!
+<br />
+<br />
+<br />
 
 <h2>**🛡️ What I Do**</h2><br />
 Entry level Frontend Developer<br />
