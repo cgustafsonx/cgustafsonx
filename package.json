@@ -1,0 +1,22 @@
+{
+  "name": "cgustafsonx",
+  "version": "1.0.0",
+  "description": "Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cgustafsonx/cgustafsonx.git"
+  },
+  "keywords": [
+    "cgustafsonx"
+  ],
+  "author": "Christopher Gustafson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgustafsonx/cgustafsonx/issues"
+  },
+  "homepage": "https://github.com/cgustafsonx/cgustafsonx#readme"
+}
