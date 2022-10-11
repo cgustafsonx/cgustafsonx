@@ -20,5 +20,5 @@ HTML & CSS (❤️ Styled components)<br />
 Frontend Libraries: React<br />
 Frontend Frameworks: NextJS<br />
 Backend: Node & Express<br />
-Testing: Jest & Testing-library<br />
+Responsive Design<br />
 Version control: GIT<br />
