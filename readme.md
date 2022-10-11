@@ -16,7 +16,7 @@ Over 10+ years graphic design experience<br />
 
 <h2>My Toolbox</h2>
 Languages: Javascript<br />
-HTML & CSS (❤️ Styled components)<br />
+HTML & CSS (Styled components)<br />
 Frontend Libraries: React<br />
 Frontend Frameworks: NextJS<br />
 Backend: Node & Express<br />
