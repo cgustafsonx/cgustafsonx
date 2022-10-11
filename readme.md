@@ -2,7 +2,7 @@
 
 👈 There, you see a number of coding skills I have. JavaScript and React are my languages so far!
 
-**🛡️ What I Do**<br />
+<h2>**🛡️ What I Do**</h2><br />
 Entry level Frontend Developer<br />
 Create beautiful UX Designs<br />
 Good learning pace + mindset<br />
