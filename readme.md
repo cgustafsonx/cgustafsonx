@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher. I am a Frontend Developer.</h1>
+<h1>Hi, I'm Christopher. I am a (entry level) Frontend Developer.</h1>
 
 On the left, you see a number of coding skills I have. JavaScript and React are my languages so far!
 <br />
