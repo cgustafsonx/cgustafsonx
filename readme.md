@@ -5,7 +5,7 @@ On the left, you see a number of coding skills I have. JavaScript and React are 
 <br />
 
 <h2>What I (want to) do</h2>
-Bcome a worthy Frontend Developer<br />
+Become a worthy Frontend Developer<br />
 Create beautiful UX Designs<br />
 Having a good learning pace + mindset<br />
 
