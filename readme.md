@@ -11,14 +11,14 @@ Having a good learning pace + mindset<br />
 
 <h2>Experience</h2>
 Been a part of Codaisseur in Amsterdam<br />
-Personal Training from Rein op 't Land<br />
+Started to get workexperience @ ING since january 2023<br />
 Over 10+ years graphic design experience<br />
 
 <h2>My Toolbox</h2>
 Languages: Javascript<br />
 HTML & CSS (Styled components)<br />
 Frontend Libraries: React<br />
-Frontend Frameworks: NextJS<br />
-Backend: Node & Express<br />
-Responsive Design<br />
-Version control: GIT<br />
+Frontend Frameworks: NextJS / Lit Element<br />
+Backend: NPM & Express<br />
+Responsive Design / Flexboxing / Grid<br />
+Version control: Git<br />
