@@ -1,26 +1,45 @@
-<h1>Hey, it's me Christopher.</h1>
-<h3>I am a fresh Frontend Developer.</h3>
-<br />
+# Hey, it's me Christopher.
+### I am a fresh Frontend Developer.
 
 On the left, you see a number of coding skills I have. JavaScript and LitElement are my languages so far!
-<br />
-<br />
 
-<h2>What I (want to) do</h2>
-Become a worthy Frontend Developer<br />
-Create beautiful apps<br />
-Having a good learning pace + mindset<br />
+---
 
-<h2>Experience</h2>
-Been a part of Codaisseur in Amsterdam<br />
-Have over 1.5 years of experience @ ING Netherlands<br />
-Having over 10+ years graphic design experience<br />
+## What I (want to) do
 
-<h2>My Toolbox</h2>
-Languages: Javascript<br />
-HTML & CSS (Styled components)<br />
-Frontend RESTAPI<br />
-Frontend Frameworks: LitElement<br />
-Backend: NPM & Express<br />
-Responsive Design / Flexboxing / Grid<br />
-Version control: Git<br />
+- Become a worthy Frontend Developer
+- Create beautiful apps
+- Maintain a good learning pace and mindset
+
+---
+
+## Experience
+
+- Been a part of Codaisseur in Amsterdam
+- Have over 1.5 years of experience @ ING Netherlands
+- Have over 0.5 years of experience @ Eureka Examens
+- Over 10+ years of graphic design experience
+
+---
+
+## My Toolbox
+
+**Languages:**
+
+- JavaScript
+- HTML & CSS (Styled components)
+- Laravel PHP
+
+**Frontend:**
+
+- Frontend REST API
+- Frontend Frameworks: LitElement, Tailwind, Laravel
+
+**Backend:**
+
+- NPM & Express
+
+**Other:**
+
+- Responsive Design / Flexbox / Grid / TailwindCSS
+- Version control: Git
